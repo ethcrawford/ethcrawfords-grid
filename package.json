@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "Ethan Crawford <ethcrawford@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "stylus ./source/ethcrawfords-grid-core.styl -w -o ./dist/"
+  },
   "devDependencies": {
     "stylus": "^0.54.5"
   }
