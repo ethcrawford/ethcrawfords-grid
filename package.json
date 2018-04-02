@@ -1,0 +1,8 @@
+{
+  "name": "ethcrawfords-grid",
+  "version": "1.0.0",
+  "description": "Ethcrawfords grid system",
+  "main": "index.js",
+  "author": "Ethan Crawford <ethcrawford@gmail.com>",
+  "license": "MIT"
+}
